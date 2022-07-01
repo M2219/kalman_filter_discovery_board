@@ -1,0 +1,15 @@
+mathlib.c:7:6:print_mat	48	static
+mathlib.c:19:6:sliceColArray	32	static
+mathlib.c:27:6:sliceRowArray	40	static
+mathlib.c:35:6:mulMat	64	static
+mathlib.c:55:6:addMat	56	static
+mathlib.c:66:6:subMat	56	static
+mathlib.c:77:6:transposeMat	48	static
+mathlib.c:88:6:identityMat	32	static
+mathlib.c:105:6:randn	40	static
+mathlib.c:116:7:norm	48	static
+mathlib.c:144:7:rand_val	48	static
+mathlib.c:181:6:inverseMat	200	static
+mathlib.c:205:7:determinant	200	static
+mathlib.c:253:6:transpose_inv	192	static
+mathlib.c:278:6:cofactor	352	static
